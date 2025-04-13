@@ -109,17 +109,14 @@ User Expectations: Users may expect human-like responses, which the bot may not 
 
 Cost: Implementing advanced models, especially for real-time responses, can be resource-intensive.
 
-
-CONTACT : FOR ANY QUESTIONS OR FEEDBACK,FEEL FREE TO REACH OUT TO:
-
-Suhani Deshmukh Company:Codetech IT Solutions Email:suhani.deshmukh1612@gmail.com
-
-
-
----
-
 7. Future Improvements:
 
 Contextual Understanding: Improve the bot's ability to maintain context over longer conversations.
 
 Voice Support: Integrate voice recognition and speech synthesis to create a more interactive and natural user experience.
+
+
+CONTACT : FOR ANY QUESTIONS OR FEEDBACK,FEEL FREE TO REACH OUT TO:
+
+Suhani Deshmukh Company:Codetech IT Solutions Email:suhani.deshmukh1612@gmail.com
+
